@@ -1,0 +1,23 @@
+function preload() {
+  font = loadFont('data/CourierStd.otf');
+
+}
+
+function setup() {
+  createCanvas(600,600);
+  background(220);
+  fill(0);
+  textSize(32);
+  textFont(font); //textFont(font,32)
+  textAlign(CENTER);
+}
+
+
+function draw() {
+  textSize(16);
+  text('small',300,100);
+  textSize(32);
+  text('medium',300,300);
+  textSize(64);
+  text('smallmedium',300,500);
+}
