@@ -12,3 +12,10 @@ After the class shared each of their fonts, we gathered that a lot of typographe
 ![](acnh.jpg)
 
 We then decided that for Brief 2, my group, *Wholesome Animal Crossing/ Forever in Tom Nook's Debt Animal Crossing* would re-read Section 3.
+
+
+
+
+![](R.jpg)
+
+After seeing some of my classmates experimental letters that they created through code, I wanted to see if I could come up with something different to what I did last week. I'm still trying to get used to the numbering system and even the values of the different colours. 
