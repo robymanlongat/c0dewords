@@ -5,6 +5,7 @@ For this week, we focused on github and creating paper prototypes. We were also 
 
 
 ![](parkingPanic.jpg)
+
 In small groups, we were told to re-create classic video games on paper. My group and I chose *Parking Panic*, and actually found it quite straight forward as the game uses a simple grid and doesn't have too many different variables. I think paper prototyping is very practical and useful. I'll make sure to make some for my future designs so that I can quickly see if I can execute the ideas that I have in my head well enough. 
 
 ![](disappearingLetters.jpg)
