@@ -19,5 +19,6 @@ We were then taught about *pseudo-code* and tried writing some up for our daily 
   **END**
 
 
+
 ![](disappearingLetters.jpg)
 I loved this appearing/disappearing effect that Karen taught us. I definitely would like to incorporate this into my re-reading as I think it would suit the text and the text message 'feel' that I want to create.
