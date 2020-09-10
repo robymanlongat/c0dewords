@@ -20,3 +20,7 @@ We were then taught about *pseudo-code* and tried writing some up for our daily 
 
 ![](disappearingLetters.jpg)
 I loved this appearing/disappearing effect that Karen taught us. I definitely would like to incorporate this into my re-reading as I think it would suit the text and the text message 'feel' that I want to create.
+
+
+![](trial1.gif)
+I created a paper prototype for my re-reading of *OK TEXTS*. The first line of the text will be very static, centre aligned and contained. A big "OK" will appear on top of it. The next line will pop up with a little more movement. An "OK" will appear on top of it, replicating it's movement and position. As more lines appear, more movement, different colours and different scales will be introduced. 
