@@ -11,4 +11,4 @@ We were then taught about how to incorporate sound into our code and played arou
 
 ![](remix.jpg)
 
-Here's my remix of Karen's code that she created for our class. 
+Here's my remix of Karen's code that she created for our class. And here's my pseudo-code for my ![paper prototype](): **START** IF text is static and not moving   THEN reply is static and not moving IF text is slighty crooked THEN reply is slighty crooked IF text is moving across the screen THEN reply is moving across the screen IF text is moving along a circle's path THEN reply is moving along a circle's path IF text is spread across the screen THEN reply is spread across the screen **END**
