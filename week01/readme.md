@@ -1,4 +1,4 @@
-**welcome to code+words!** :) 
+## welcome to code+words!** :) 
 
 
 We started the course and the semester by firstly meeting in *Minecraft* where a virtual Flinders St was created. While walking around and dismantling the roads, our class discussed how important virtual spaces like these have become in the technology age, especially in the time of COVID. We also discussed all of the possibilites in these worlds, specifically with retelling stories.
