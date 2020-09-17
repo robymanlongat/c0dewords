@@ -1,4 +1,4 @@
-**code + words week 2!**
+## code + words week 2!
 
 ![](multipli.jpg)
 
