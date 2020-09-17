@@ -1,4 +1,6 @@
-## code + words week 2!
+# code + words week 2!
+
+## Modular Typefaces
 
 ![](multipli.jpg)
 
@@ -7,14 +9,14 @@ This week, we discussed modular typeface designs. We gathered fonts and artists 
 After the class shared each of their fonts, we gathered that a lot of typographers, even up to now, start with the foundations of particular artists' works, especially Anh Sang Soo's. 
 
 
-
+## Brief 2
 
 ![](acnh.jpg)
 
 We then decided that for Brief 2, my group, *Wholesome Animal Crossing/ Forever in Tom Nook's Debt Animal Crossing* would re-read Section 3.
 
 
-
+## Code
 
 ![](R.jpg)
 
