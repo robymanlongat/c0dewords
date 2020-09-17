@@ -1,10 +1,12 @@
-## code words, week three
+# code words, week three
 
+## Virtual Identities
 
 ![](chatbot.jpg)
 
 This week, we looked at avatars and virtual identities. We were also introduced to electronic literature and the different ways that have been explored to tell stories such as the creation of Chatbots, Generative Texts and the Animation of Texts. I honestly found this quite intimidating and scary as identities of actual people have been recreated and it could easily be turned around and used for the wrong reasons. 
 
+## Interactive Text
 
 ![](bonnieandclyde.png)
 
