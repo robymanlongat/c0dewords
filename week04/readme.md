@@ -8,6 +8,6 @@ For this week, we were taught how to incorporate text into our codes, manipulate
 
 ![](week4_type2.jpg)
 
-I really loved the look of moving text, especially in this circular motion. I was suprised with how smooth the end result turned out and got excited to learn about more of the things we could achieve through code. I didn't realise there were so many possibilites and variables we could include. [Here's](https://robymanlongat.github.io/codewords.github.io/week04/type2remix) my remix of this amazing graphic.
+I really loved the look of moving text, especially in this circular motion. I was suprised with how smooth the end result turned out and got excited to learn about more of the things we could achieve through code. I didn't realise there were so many possibilites and variables we could include. [Here's](https://robymanlongat.github.io/c0dewords/week04/type2remix) my remix of this amazing graphic.
 
 I'm excited to learn about more of the possiblities of coding. Hopefully I'll be able to incorporate these skills into my work in the future, it's definitely something that I don't see a lot of designers working with (not that I know of at least).
