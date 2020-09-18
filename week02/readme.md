@@ -20,5 +20,5 @@ We then decided that for Brief 2, my group, *Wholesome Animal Crossing/ Forever 
 
 ![](R.jpg)
 
-[(over here!)](https://robymanlongat.github.io/codewords.github.io/week02/R)
+[(over here!)](https://robymanlongat.github.io/c0dewords/week02/R)
 After seeing some of my classmates experimental letters that they created through code, I wanted to see if I could come up with something different to what I did last week. I'm still trying to get used to the numbering system and even the values of the different colours. (now that I look at this, the diagonal stem doesn't appear to be strong enough, resulting in it to look more like a P rather than an R.)
