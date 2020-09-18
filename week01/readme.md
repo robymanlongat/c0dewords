@@ -2,7 +2,7 @@
 
 ## Introductions
 
-Firstly, we were introduced to our course and all the things we would be focusing on this coming semester. We were then put into groups to talk about the books we'd all read recently. I spoke about *"Who Moved My Cheese?* by Spencer Johnson. 
+Firstly, we were introduced to our course and all the things we would be focusing on this coming semester. We were then put into groups to talk about the books we'd all read recently. I spoke about *"Who Moved My Cheese?"* by Spencer Johnson (pretty insightful actually). 
 
 ## Virtual Worlds
 
