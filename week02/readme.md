@@ -13,7 +13,9 @@ After the class shared each of their fonts, we gathered that a lot of typographe
 
 ![](acnh.jpg)
 
-We then decided that for Brief 2, my group, *Wholesome Animal Crossing/ Forever in Tom Nook's Debt Animal Crossing* would re-read Section 3.
+Everyone then decided on which virtual world they would like for Brief 2. I chose to join the *Wholesome Animal Crossing/ Forever in Tom Nook's Debt Animal Crossing* group because I thought that since it is such an innocent and cute game, performing the horror novel would result in something super great. I think that players of Animal Crossing are also able to customise and edit enough, to be able to capture specific moods and tell stories.
+
+We chose to re-read section 3. I can't wait to see what we will be able to come up with for this project!
 
 
 ## Code
