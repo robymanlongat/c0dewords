@@ -4,7 +4,9 @@
 
 This week we presented our rough outcomes for Brief 2! 
 
-![](mum.jpeg)
+![](maddad.jpg)
+
+![](papers.jpg)
 
 ![](bar.gif)
 
