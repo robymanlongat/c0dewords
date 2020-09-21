@@ -28,5 +28,12 @@ I loved this appearing/disappearing effect that Karen taught us. I definitely wo
 
 ## Homework
 
-![](trial1.gif)
-I created a paper prototype for my re-reading of *OK TEXTS*. The first line of the text will be very static, centre aligned and contained. A big "OK" will appear on top of it. The next line will pop up with a little more movement. An "OK" will appear on top of it, replicating it's movement and position. As more lines appear, more movement, different colours and different scales will be introduced. The very last section of the text will have the most movement, maybe all the words are spread across the screen? Moving in different directions and in different fonts, sizes and colours. 
+![Trial 1](trial1.gif)
+![Trial 2](trial2.gif)
+I created two paper prototypes for my re-reading of *OK TEXTS*. 
+
+For trial 1, the first line of the text will be very static, centre aligned and contained. A big "OK" will appear on top of it. The next line will pop up with a little more movement. An "OK" will appear on top of it, replicating it's movement and position. As more lines appear, more movement, different colours and different scales will be introduced. The very last section of the text will have the most movement, maybe all the words are spread across the screen? Moving in different directions and in different fonts, sizes and colours. 
+
+Trial 2 is a bit more simple. The text (without the "OK") appears like text messages being received then the "OK"'s are sent back. As new lines appear, the old ones move up along the screen until they are pushed off and not able to seen anymore.
+
+I definitely like my first idea more as I think it's a lot more interesting and fun. There is a wide variety of graphics that I can present while I would be a bit more limited if I went on with trial 2. 
