@@ -16,4 +16,4 @@ We learnt so much this lesson about some different ways text and just individual
 
 We also incorporated the functions *keyPressed* and *mousePressed*. I found that these made the experience a lot more fun and remarkable, as opposed to if the letters were programmed to appear by themselves. It would be nice to be able to include this into my re-reading; maybe the reader will have to type in "OK" for the next sentence to appear. 
 
-I found [this](http://www.generative-gestaltung.de/2/sketches/?01_P/P_2_2_3_01) beautiful piece of code while browsing for some inspiration. So simple but so nice! I really like the thin strokeWeight and how delicate it looks.
+I found [this](http://www.generative-gestaltung.de/2/sketches/?01_P/P_2_2_3_01) beautiful piece of code while browsing for some inspiration. So simple but so nice! I really like the thin *strokeWeight* and how delicate it looks.
