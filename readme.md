@@ -1,7 +1,7 @@
 # codewords.github.io
 hello world
 
-[Week01](https://robymanlongat.github.io/c0dewords/week01/readme)
+[Week01](https://robymanlongat.github.io/c0dewords/week01)
 [Week02](https://robymanlongat.github.io/c0dewords/week02/readme)
 [Week03](https://robymanlongat.github.io/c0dewords/week03/readme)
 [Week04](https://robymanlongat.github.io/c0dewords/week04/readme)
