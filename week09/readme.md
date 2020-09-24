@@ -16,4 +16,4 @@ As I was having trouble figuring out how to add multiple events under the *mouse
 
 [Click for first event](https://robymanlongat.github.io/c0dewords/week09/majorProject_para1) 
 
-[And here for second](https://robymanlongat.github.io/c0dewords/week09/majorProject_para2)
+[And here for the second](https://robymanlongat.github.io/c0dewords/week09/majorProject_para2) (Still a work in progress as I'm trying to figure out how to insert the "OK")
