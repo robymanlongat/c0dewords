@@ -13,5 +13,7 @@ As I was typing the text into my code, I realised that it would be too much and 
 The [first code](https://robymanlongat.github.io/c0dewords/week09/majorProject) I wrote up was just me deciding on the basics such as text size, colours and fonts. 
 
 As I was having trouble figuring out how to add multiple events under the *mousePressed* function, I decided to just work on each of them on seperate Processing files. Hopefully soon I'll figure out how to do this. 
+
 [Click for first event](https://robymanlongat.github.io/c0dewords/week09/majorProject_para1) 
+
 [And here for second](https://robymanlongat.github.io/c0dewords/week09/majorProject_para2)
