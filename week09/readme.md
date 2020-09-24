@@ -14,6 +14,6 @@ The [first code](https://robymanlongat.github.io/c0dewords/week09/majorProject) 
 
 As I was having trouble figuring out how to add multiple events under the *mousePressed* function, I decided to just work on each of them on seperate Processing files. Hopefully soon I'll figure out how to do this. 
 
-[Click for first event](https://robymanlongat.github.io/c0dewords/week09/majorProject_para1) 
+[Click for first event](https://robymanlongat.github.io/c0dewords/week09/majorProject_para1) (Text looks much crisper as I was reminded by Karen to refresh my canvas with my background under my *draw* function)
 
 [And here for the second](https://robymanlongat.github.io/c0dewords/week09/majorProject_para2) (Still a work in progress!! I'm trying to figure out how to follow up the text with a moving "OK")
