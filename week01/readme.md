@@ -16,3 +16,5 @@ We then moved on to what I was looking forward to the most. We were introduced t
 I found it quite difficult to understand everything at first, especially getting used to the y-axis decreasing from the bottom, instead of increasing which is what I'm so used to. But overall, it wasn't as bad as I expected it to be. Before this, code to me insisted of complicated problems and long math equations that were only able to be cracked by people who had been coding their whole lives. Starting slowly with the basics and taking it step by step made the process quite easy to follow.
 
 I'm so excited for what's to come of this course! I've never looked into code before, I hope I'm able to keep up with it all.
+
+Week02 over [here!](https://robymanlongat.github.io/c0dewords/week02)
