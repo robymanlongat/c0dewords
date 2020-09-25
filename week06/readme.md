@@ -37,3 +37,5 @@ For trial 1, the first line of the text will be very static, centre aligned and 
 Trial 2 is a bit more simple. The text (without the "OK") appears like text messages being received then the "OK"'s are sent back. As new lines appear, the old ones move up along the screen until they are pushed off and not able to seen anymore.
 
 I definitely like my first idea more as I think it's a lot more interesting and fun. There is a wide variety of graphics that I can present while I would be a bit more limited if I went on with trial 2. 
+
+*[CLICK!](https://robymanlongat.github.io/c0dewords/week07) (will take u to week07)*
