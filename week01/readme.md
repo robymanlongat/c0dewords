@@ -17,4 +17,4 @@ I found it quite difficult to understand everything at first, especially getting
 
 I'm so excited for what's to come of this course! I've never looked into code before, I hope I'm able to keep up with it all.
 
-Week02 over [here!](https://robymanlongat.github.io/c0dewords/week02)
+*Week02 over [here!](https://robymanlongat.github.io/c0dewords/week02)*
