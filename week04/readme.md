@@ -17,3 +17,5 @@ I'm excited to learn about more of the possiblities of coding. Hopefully I'll be
 ![](saleswoman.jpeg)
 
 For the rest of this week's lesson, my group and hopped onto Animal Crossing to work on our re-reading of House of Leaves. At the moment, we're still trying to fully understand what's going on in the story - it's super different to anything all of us have read before. The multiple narrators, jumping in and out of different events and the inserts of other texts and passages threw us off a little at the start but we found that breaking the text up into shorter sections helped alot. We are in the process of creating the sets where our characters will be filming on, and the funest part (for me), deciding on each of our outfits. 
+
+*[Here](https://robymanlongat.github.io/c0dewords/week05) for Week05*
