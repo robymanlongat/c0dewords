@@ -26,3 +26,5 @@ We chose to re-read section 3. I can't wait to see what we will be able to come 
 
 [(over here!)](https://robymanlongat.github.io/c0dewords/week02/R)
 After seeing some of my classmates experimental letters that they created through code, I wanted to see if I could come up with something different to what I did last week. I'm still trying to get used to the numbering system and even the values of the different colours. (now that I look at this, the diagonal stem doesn't appear to be strong enough, resulting in it to look more like a P rather than an R.) I'll keep practicing :)!
+
+*[Here](https://robymanlongat.github.io/c0dewords/week03) for Week03*
