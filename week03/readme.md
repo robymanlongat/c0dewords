@@ -19,3 +19,5 @@ While clicking through this story, I was very interested to see what the artist 
 ## Brief 2 
 
 We were given the rest of the lesson to work with our groups on Brief 2. Firslty, my group and I decided to attempt to meet up at someone's Animal Crossing island. Initially we wanted to try Jamie's as he had the best island rating. I'm not entirely sure why but we couldn't manage to get all five of us over, everytime the fourth or fifth was in the processes of "flying over", the connection would drop out and we would all be kicked off the island. After a while, we decided to try on my (3 star :/) island and thankfully it worked! This was definitely something we would have to keep in mind while filming as our goal was to film as soon as possible so that we would be left with lots of time for editing and re-working with any feedback that could be given. 
+
+*[Week04!](https://robymanlongat.github.io/c0dewords/week04)*
