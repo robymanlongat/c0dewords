@@ -1,4 +1,4 @@
-# codewords.github.io
+# codewords.github.io journal entries by Roby Manlongat 
 hello world
 
 [Week01](https://robymanlongat.github.io/c0dewords/week01)
