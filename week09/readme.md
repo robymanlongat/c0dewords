@@ -17,3 +17,5 @@ As I was having trouble figuring out how to add multiple events under the *mouse
 [Click for first event](https://robymanlongat.github.io/c0dewords/week09/majorProject_para1) (Text looks much crisper as I was reminded by Karen to refresh my canvas with my background under my *draw* function)
 
 [And here for the second](https://robymanlongat.github.io/c0dewords/week09/majorProject_para2) (Still a work in progress!! I'm trying to figure out how to follow up the text with a moving "OK")
+
+*[And here for week10](https://robymanlongat.github.io/c0dewords/week10)*
