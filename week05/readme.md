@@ -18,4 +18,4 @@ I enjoyed working with my group and deciding on what adaptions we could make on 
 
 We then discussed Brief 3 and the selection of texts we could chose to focus on. 
 
-*[Here] for Week05(https://robymanlongat.github.io/c0dewords/week05)*
+*[Here](https://robymanlongat.github.io/c0dewords/week05) for Week05*
