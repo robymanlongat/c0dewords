@@ -12,7 +12,7 @@ As I was typing the text into my code, I realised that it would be too much and 
 
 The [first code](https://robymanlongat.github.io/c0dewords/week09/majorProject) I wrote up was just me deciding on the basics such as text size, colours and fonts. 
 
-As I was having trouble figuring out how to add multiple events under the *mousePressed* function, I decided to just work on each of them on seperate Processing files. Hopefully soon I'll figure out how to do this. 
+As I was having trouble figuring out how to add multiple events under the *mousePressed* function, I decided to just work on each of them on seperate Processing files. Hopefully soon I'll figure out how to do this. I also decided on making the "OK"  consistent (very static, same size and colour) for all of the lines as I think it will leave a better effect to the user. Initially I wanted each of the "OK"'s to mirror the animations given to the previous line but this feels much nicer.
 
 [Click for first event](https://robymanlongat.github.io/c0dewords/week09/majorProject_para1) (Text looks much crisper as I was reminded by Karen to refresh my canvas with my background under my *draw* function)
 
