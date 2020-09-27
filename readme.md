@@ -19,7 +19,7 @@ hello world
 
 [Week09](https://robymanlongat.github.io/c0dewords/week09)
 
-[Week09](https://robymanlongat.github.io/c0dewords/week09.5)
+[Week09.5](https://robymanlongat.github.io/c0dewords/week09.5)
 
 [Week10](https://robymanlongat.github.io/c0dewords/week010)
 
