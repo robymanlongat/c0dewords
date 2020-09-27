@@ -1,5 +1,5 @@
 # c0dewords journal entries by Roby Manlongat 
-hello world
+hello world (some of the linked codes may need a mousePress to start!)
 
 [Week01](https://robymanlongat.github.io/c0dewords/week01)
 
