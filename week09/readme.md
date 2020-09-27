@@ -18,4 +18,4 @@ As I was having trouble figuring out how to add multiple events under the *mouse
 
 [And here for the second](https://robymanlongat.github.io/c0dewords/week09/majorProject_para2) (Still a work in progress!! I'm trying to figure out how to follow up the text with a moving "OK")
 
-*[And here for week10](https://robymanlongat.github.io/c0dewords/week10)*
+*[And here for week09.5](https://robymanlongat.github.io/c0dewords/week09.5)*
