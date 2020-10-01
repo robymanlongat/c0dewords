@@ -20,4 +20,4 @@ I've also created some code for other lines of the text. I'm a bit stuck with tr
 
 Karen and Andy also discussed viewing our codes on other devices such as mobile phones. For our codes to work as nicely as they do on our laptops, we shouldn't be using exact points to map out our content. 
 
-[Here's](https://robymanlongat.github.io/c0dewords/week10/majorProject_resized) my code using relative scaling!!! 
+[Here's](https://robymanlongat.github.io/c0dewords/week10/majorProject_resized) my code using relative scaling!!
