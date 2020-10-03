@@ -21,8 +21,8 @@ hello world (some of my linked codes may need a mousePress to start!)
 
 [Week09.5](https://robymanlongat.github.io/c0dewords/week09.5)
 
-[Week10](https://robymanlongat.github.io/c0dewords/week010)
+[Week10](https://robymanlongat.github.io/c0dewords/week10)
 
-[Week11](https://robymanlongat.github.io/c0dewords/week011)
+[Week11](https://robymanlongat.github.io/c0dewords/week11)
 
-[Week12](https://robymanlongat.github.io/c0dewords/week012)
+[Week12](https://robymanlongat.github.io/c0dewords/week12)
