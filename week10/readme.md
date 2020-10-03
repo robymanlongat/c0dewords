@@ -24,4 +24,4 @@ Right now, I'm in the process of coming up with ideas for what to do with the re
 
 ![](winner.png)
 
-For the last line, I'm thinking of replicating the visuals in the spam/virus pop-ups that tell the user they have won a prize eg. iPhone, $1,000,000 (shown in pic above). [This](https://robymanlongat.github.io/c0dewords/week10/majorProject_para18) is what I have so far. 
+For the last line, I'm thinking of replicating the visuals in the spam/virus pop-ups that tell the user they have won a prize eg. big flashing text, confetti falling (shown in pic above). [This](https://robymanlongat.github.io/c0dewords/week10/majorProject_para18) is what I have so far. 
