@@ -4,7 +4,7 @@
 
 We began class by presenting each of our codes that we've created so far. We put foward any issues or questions that we had and also got some advice from Andy and Karen.
 
-I've combined the codes for paragraphs 1,2 and 3 together! [This](https://robymanlongat.github.io/c0dewords/week10/majorProject_all) is what I to everyone. I was a little shy to show such a simple code alongside such cool conceptual work that others had created, but I was surprisingly commended for my approach to start off with super simple graphics and really focus on the details. I think this also allowed me to really own all of my code and truly understand how everything works! 
+I've combined the codes for paragraphs 1,2 and 3 together! [This](https://robymanlongat.github.io/c0dewords/week10/majorProject_all) is what I showed to everyone. I was a little shy to show such a simple code alongside such cool conceptual work that others had created, but I was surprisingly commended for my approach to start off with super simple graphics and really focus on the details. I think this also allowed me to really own all of my code and truly understand how everything works! This allows me to be able to add onto my work to produce even more exciting results. 
 
 (I've also created some code for other lines of the text. I'm a bit stuck with trying to come up with ideas for other lines, especially line 4. )
 
