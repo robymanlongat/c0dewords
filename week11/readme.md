@@ -18,5 +18,5 @@ Some other fixes I need to make are:
 2) my lines that split the page into 4 for para16 appear for a bit then disappear
 3) some shapes and text are distorted/shift postions when I open my code in a smaller browser (shown below)
 
-![](squish.png)
-![](squish2.png)
+![](squish.jpeg)
+![](squish2.jpeg)
