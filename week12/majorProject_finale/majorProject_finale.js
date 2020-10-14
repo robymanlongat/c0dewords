@@ -1,6 +1,5 @@
 let mode = 0;
 let like;
-let ding;
 
 let para1 = 'Technological determinism will cause you great pain. Continue?';
 
