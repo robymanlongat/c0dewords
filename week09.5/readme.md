@@ -11,3 +11,5 @@ My initial idea for paragraph 3 was for the sentence to be moving along a circle
 I spent so long trying to let this run using *sentenceSplit* but I couldn't seem to get it to work. After lots of trial and error, I decided not to use variables and just state each word instead. There's probably a quicker and easier way that I could've done this >:) but nevertheless, I'm really happy with how it turned out so I guess it was worth it!!
 
 While I was browsing for more inspiration, I stumbled across [this](https://editor.p5js.org/doubleshow/sketches/BJdU6tFSM) code and thought it would work great for my paragraph 9. [Here's](https://robymanlongat.github.io/c0dewords/week09.5/majorProject_para9) my remix of it.
+
+*[Here](https://robymanlongat.github.io/c0dewords/week10) for week 10*
