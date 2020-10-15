@@ -20,3 +20,5 @@ Some other fixes I need to make are:
 
 ![](squish.jpg)
 ![](squish2.jpg)
+
+*Week 12 over [here](https://robymanlongat.github.io/c0dewords/week12)*
