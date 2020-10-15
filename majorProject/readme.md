@@ -1,4 +1,4 @@
-## Comply by Roby Manlongat
+# Comply by Roby Manlongat
 
 ![](comply.gif)
 
@@ -13,6 +13,6 @@ From my code, I want the readers to question themselves and think about the amou
 
 Once the reader reaches the end, I wanted them to think about if it was worth getting a ‘virus’ and agreeing to all those horrid statements just to get more likes. If we continue to focus on the number of likes that we get, accept the warnings and errors, what will the end result be?
 
-Click [here](https://robymanlongat.github.io/c0dewords/week12/majorProject_finalefinale) to view!
+**Click [here](https://robymanlongat.github.io/c0dewords/week12/majorProject_finalefinale) to view!**
 
-Hope you enjoy :)
+**Hope you enjoy :)**
