@@ -26,3 +26,5 @@ hello world (some of my linked codes may need a mousePress to start!)
 [Week11](https://robymanlongat.github.io/c0dewords/week11)
 
 [Week12](https://robymanlongat.github.io/c0dewords/week12)
+
+[Major Project](https://robymanlongat.github.io/c0dewords/majorProject)
