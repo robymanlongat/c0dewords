@@ -4,7 +4,7 @@
 
 ![](week4_type.jpg)
 
-For this week, we were taught how to incorporate text into our codes, manipulate it's size <textSize()>, position, alignment<textAlign()> and change the typeface being used <textFont()>. We also explored applying movement and interactivity with the use of the mouse, inserting <mouseX> or <mouseY> for x and y coordinates, instead of definite values. I think the interactive nature helps make the viewer a lot more engaged and excited with what is being presented in front of them. If I were to publish a large chunk of text, incorporating this would help ensure that the viewer would have a better experience.
+For this week, we were taught how to incorporate text into our codes, manipulate it's size < textSize() >, position, alignment < textAlign() > and change the typeface being used < textFont() >. We also explored applying movement and interactivity with the use of the mouse, inserting 'mouseX' or 'mouseY' for x and y coordinates, instead of definite values. I think the interactive nature helps make the viewer a lot more engaged and excited with what is being presented in front of them. If I were to publish a large chunk of text, incorporating this would help ensure that the viewer would have a better experience.
 
 ![](week4_type2.jpg)
 
