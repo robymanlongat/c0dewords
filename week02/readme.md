@@ -4,7 +4,10 @@
 
 ![](multipli.jpg)
 
-This week, we discussed modular typeface designs. We gathered fonts and artists from the internet and presented our best finds to each other. I came across the French typographer, Fanette Mellier and her type *Multipli*. Created by referring to a poster folding principle. The letters appear from the folds and the back of the subtracted shapes make new colors arise. I found Mellier's decisions with colour and a simple division of just one versitle shape very clever. 
+This week, we discussed *modular typeface designs.* --> "[A](https://www.creativebloq.com/computer-arts/design-stunning-typeface-just-six-shapes-10127787#:~:text=A%20modular%20typeface%20is%20an,to%20create%20an%20entire%20alphabet.) modular typeface is an alphabet constructed out of a limited number of shapes or modules. The design we're making here uses just six different modules that can be transformed subtly, by rotating, flipping and so on, to create an entire alphabet." 
+
+
+We gathered fonts and artists from the internet and presented our best finds to each other. I came across the French typographer, Fanette Mellier and her type *[Multipli](https://fanettemellier.com/en/project/multipli/)*. Created by referring to a poster folding principle. The letters appear from the folds and the back of the subtracted shapes make new colors arise. I found Mellier's decisions with colour and a simple division of just one versitle shape very clever. 
 
 After the class shared each of their fonts, we gathered that a lot of typographers, even up to now, start with the foundations of particular artists' works, especially Anh Sang Soo's. 
 
