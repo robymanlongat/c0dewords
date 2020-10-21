@@ -12,7 +12,7 @@ The only problem I couldn't work out was the audio looping. All the commands I t
 
 CODE
 
-I was very interested to see how I could incorporate code into my work as a designer. The way that Andy and Karen explained code through design made me realise how beneficial it would be for me to have even a basic understanding about code and the ways our devices generate images and text for a viewer. I think that knowing how everything works behind the scenes gives the designer a lot more control over all of the details of their work. 
+I chose this studio as I was very interested to see how I could incorporate code into my work as a designer. The way that Andy and Karen explained code through design made me realise how beneficial it would be for me to have even a basic understanding about code and the ways our devices generate images and text for a viewer. I think that knowing how everything works behind the scenes gives the designer a lot more control over all of the details of their work. 
 
 I have to say that I was quite overwhelmed at times but whenever I could feel that it was just about to get too much for me, I would just step back and slowly take the code in, bit by bit. By making sure that I understood everything that I wrote, it was easier for me to make changes and find out what I needed to change when any problems would pop up. 
 
