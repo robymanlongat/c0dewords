@@ -10,7 +10,7 @@ I love when I get to see other people's work, especially when it's still in prog
 
 ![](week7.jpg)
 
-We were then taught about how to incorporate sound into our code and played around with creating some graphics that would go with it. We also incorporated the *mousePressed* function which I think would be a great thing to add to my Major Project, giving the user more control over the experience. I think I'd also like to include sound into my re-reading. Possibly a track that would get louder/more busy as the text goes on and then hits it's loudest part when the last "OK" appears.
+We were then taught about how to incorporate sound into our code and played around with creating some graphics that would go with it. The commands < loadSound() > < sound.play >, < sound.stop > we're introduced to us. We also incorporated the *mousePressed* function which I think would be a great thing to add to my Major Project, giving the user more control over the experience. I think I'd also like to include sound into my re-reading. Possibly a track that would get louder/more busy as the text goes on and then hits it's loudest part when the last "OK" appears.
 
 
 ## Homework
