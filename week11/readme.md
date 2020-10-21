@@ -10,7 +10,7 @@ Andy gave some great suggestions regarding the overall experience of my presenta
 
 [Here's](https://robymanlongat.github.io/c0dewords/week11/majorProject_finale) my final copy for now. I decided on using facebook likes for the reward, adding on each time the reader agrees to a statement. I had them with the "OK's" at first but I choose for just the likes to appear as I think it's much more effective. 
 
-I've also swapped paragraph 3 for a *frameCount* graphic to cut down on the amount of mouse clicks. Also, instead of a word appearing one at a time, I decided on just splitting the sentence into 4 segements as I think it flows a bit nicer. Although it seems to be starting as soon as the sketch is opened because when I get to para3's scene, it's already up to the last line. 
+I've also swapped paragraph 3 for a < frameCount() > graphic to cut down on the amount of mouse clicks. Also, instead of a word appearing one at a time, I decided on just splitting the sentence into 4 segements as I think it flows a bit nicer. Although it seems to be starting as soon as the sketch is opened because when I get to para3's scene, it's already up to the last line. 
 
 Some other fixes I need to make are:
 
