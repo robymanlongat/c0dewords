@@ -18,7 +18,7 @@ I've combined the codes for paragraphs 1,2 and 3 together! [This](https://robyma
 
 ## Homework
 
-During class, Karen and Andy discussed viewing our codes on other devices such as mobile phones. For our codes to work as nicely as they do on our laptops, we shouldn't be using exact points to map out our content and instead insert values such as 'windowWidth, windowHeight, width/4, height*0.6'. [Here's](https://robymanlongat.github.io/c0dewords/week10/majorProject_resized) my code using relative scaling!!
+During class, Karen and Andy discussed viewing our codes on other devices such as mobile phones. For our codes to work as nicely as they do on our laptops, we shouldn't be using exact points to map out our content and instead insert values such as 'windowWidth', 'windowHeight', 'width/4', 'height*0.6'. [Here's](https://robymanlongat.github.io/c0dewords/week10/majorProject_resized) my code using relative scaling!!
 
 Right now, I'm in the process of coming up with ideas for what to do with the rest of my text. 
 
