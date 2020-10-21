@@ -26,4 +26,4 @@ I think now, I’m more aware of the way in which I take in the words or the sto
 
 It’s clear to me that every choice that I make during development will affect how the viewer receives my designs. I should always take the time to think about how everything works together and if they all serve a purpose.
 
-I really enjoyed this semester and became so inspired by all the coders and writers that we were introduced to! I was even more inspired by all of the work that the rest of the class created.
+I really enjoyed this semester and became so inspired by all the coders and writers that we were introduced to! I was even more inspired by all of the work that the rest of the class created. <3<3
