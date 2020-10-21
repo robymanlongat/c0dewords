@@ -2,7 +2,7 @@
 
 ## Paper Prototypes
 
-For this week, we focused on github and creating paper prototypes. We were also taught about presenting large chunks of text in our code and different ways of utilising the movement and scale functions. 
+For this week, we focused on github and creating *paper prototypes* ---> "[Paper](https://www.interaction-design.org/literature/topics/paper-prototyping) prototyping is a process where design teams create paper representations of digital products to help them realize concepts and test designs. They draw sketches or adapt printed materials and use these low-fidelity screenshot samples to cheaply guide their designs and study users' reactions from early in projects.". We were also taught about presenting large chunks of text in our code and different ways of utilising the movement and scale functions. 
 
 
 ![](parkingPanic.jpg)
