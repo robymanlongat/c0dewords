@@ -1,5 +1,7 @@
 # Celebration!!
 
+![](yay.gif)
+
 ## Major Project
 
 My major project is finally done!!! Click [here](https://robymanlongat.github.io/c0dewords/majorProject) to view! I fixed my minor problems which I mentioned on last week's entry with Karen's help. I also decided to automatically bring the reader to the error message, once the loading bar becomes full for paragraph 9 (previously the reader had to *mousePress*). Plus, I added an instruction to "click to start", in the beginning. 
@@ -24,6 +26,4 @@ I think now, I’m more aware of the way in which I take in the words or the sto
 
 It’s clear to me that every choice that I make during development will affect how the viewer receives my designs. I should always take the time to think about how everything works together and if they all serve a purpose.
 
-![](yay.gif)
-
-I really enjoyed this semester and became so inspired by all the coders and writers that we were introduced to. I was even more inspired by all of the work that the rest of the class created.
+I really enjoyed this semester and became so inspired by all the coders and writers that we were introduced to! I was even more inspired by all of the work that the rest of the class created.
